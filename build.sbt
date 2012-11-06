@@ -4,7 +4,7 @@ name := "sbt-jslint"
 
 organization := "com.github.philcali"
 
-version := "0.1.2"
+version := "0.1.2.1"
 
 scalacOptions += "-deprecation"
 
